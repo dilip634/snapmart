@@ -1,0 +1,14 @@
+```
+
+---
+
+**`.env`** — new file in root of frontend
+```
+VITE_API_URL=http://localhost:5000/api
+VITE_STRIPE_PUBLIC_KEY=pk_test_...
+
+
+VITE_RAZORPAY_KEY_ID=rzp_test_SfMjDsFSrN0cyI
+
+
+VITE_GEMINI_API_KEY=AIzaSyD23iIlGifM602SaMrawIX60m6qBg20aiI
